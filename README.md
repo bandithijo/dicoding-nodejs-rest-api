@@ -3,3 +3,4 @@
 - node:http
 - expressjs
 - hapi
+- fastify
