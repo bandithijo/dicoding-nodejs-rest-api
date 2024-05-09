@@ -2,3 +2,4 @@
 
 - node:http
 - expressjs
+- hapi
