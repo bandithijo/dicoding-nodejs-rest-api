@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:native": "nodemon ./src/native.js",
+    "dev:express": "nodemon ./src/express.js",
+    "dev:hapi": "nodemon ./src/hapi.js",
+    "dev:fastify": "nodemon ./src/fastify.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
